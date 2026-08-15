@@ -1,0 +1,4 @@
+.DS_Store
+_zip置き場/
+images/.gen*.log
+images/.gen.sh
